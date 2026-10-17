@@ -2,7 +2,7 @@
 
 A Windows desktop tool for updating Divine Intervention for Crusader Kings III and generating compatibility output for other mods.
 
-[Download the latest release](https://github.com/Lithane97/Divine-Intervention-Updater-Tool/releases/latest)
+[Download the latest release](https://github.com/Lithane97/Divine-Intervention-Updater-Tool/releases)
 
 ## Installation
 
