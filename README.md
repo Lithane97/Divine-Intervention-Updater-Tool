@@ -2,7 +2,7 @@
 
 A Windows desktop tool for updating Divine Intervention for Crusader Kings III and generating compatibility output for other mods.
 
-[Download the latest release](https://github.com/Lithane97/Divine-Intervention-Updater-Tool/releases)
+[Download the latest release](https://github.com/Lithane97/Divine-Intervention-Updater-Tool/releases/latest)
 
 ## Installation
 
@@ -24,4 +24,4 @@ Uninstall through Windows Installed Apps or the Start menu shortcut. You can opt
 
 This repository distributes packaged releases; the application source is private. The release ZIP includes matching third-party Qt/PySide/Shiboken library sources and replacement instructions. Original license texts and notices are included in the installed application. Keep the accompanying third-party source archive available when redistributing the installer.
 
-**0.2.0 Preview** is an unsigned preview release. Automated checks and local installation tests passed; broader clean Windows and in-game testing is still needed.
+The Windows installer is unsigned. See the release notes for changes and validation results.
